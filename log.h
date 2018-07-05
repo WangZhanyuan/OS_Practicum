@@ -11,7 +11,7 @@ class user{
   public:
     user(){
       u_id = 0;
-      password = NULL;
+      password = "";
     }
     
 }
